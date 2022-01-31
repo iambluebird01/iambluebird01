@@ -2,7 +2,7 @@
 
 ### About Me
 
-I have a small knowledge about programming as i learned it at home by my self mostly.
+I have a enough knowledge about programming as i learned it at home by my self mostly.
 
 I combined my knowledge at school and the things I learned by myself in Youtube to build my own Projects.
 
