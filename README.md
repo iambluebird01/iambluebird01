@@ -1,5 +1,5 @@
 ## BlueBird: A Software Engineer Aspirant
-<img alt="img" src="https://miro.medium.com/max/1200/1*82D2cg8Gpe9CVISaph6RPg.gif" width="100%" height="auto" />
+<img alt="img" src="https://techrorschach.com/wp-content/uploads/2021/01/T-Rex_Game_hack.gif" width="100%" height="auto" />
 
 ### About Me
 
