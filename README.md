@@ -1,5 +1,5 @@
 ## BlueBird: A Software Engineer Aspirant
-<img alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fautomate-chrome-dino-game-using-python-pyautogui-and-pil-eeb839005ccf&psig=AOvVaw3ds1iaeVki1UpAXxGb2Xj-&ust=1644755994950000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj_ydmX-vUCFQAAAAAdAAAAABAU" width="100%" height="auto" />
+<img alt="img" src="https://miro.medium.com/max/1200/1*kUaj2XZF0R75duI7Lskt2w.gif" width="100%" height="auto" />
 
 ### About Me
 
