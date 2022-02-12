@@ -1,3 +1,4 @@
+<img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" />
 ## BlueBird: A Software Engineer Aspirant
 
 ### About Me
