@@ -1,7 +1,16 @@
 ## BlueBird: A Software Engineer Aspirant
-<img alt="img" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" width="100%" height="auto" />
+<img alt="img" src="https://media1.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e47o2yhsl9pkelymv3jon73zsblt08j3jgo7bdmyt8q&rid=giphy.gif&ct=g" width="100%" height="450" />
 
-### About Me
+[![Linkedin](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69bf?style=flat-square&logo=Instagram&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)]()
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)]()
+
+---
+
+#### <img alt="img" src="https://user-images.githubusercontent.com/89395675/153731940-9189af3c-c33a-4325-b5a4-f59a33f0db01.png" width="35" height="35" /> About Me
+
+I'm a Software Engineering student based in Seoul, South Korea.
 
 I have a enough knowledge about programming as i learned it at home by my self mostly.
 
@@ -11,8 +20,10 @@ I'am willing to learned more in a company how to work properly and have a experi
 
 I'm a fast learner and a very dedicated person. I hope I can have mor knowledge in thid field by working in a company who would gladly accept me.
 
-### Social Media
+I always try to compete with my self, which makes me a better person than I am yesterday.
 
-* [Facebook](https://www.facebook.com/bluebug00/)
-* [Youtube]()
-* [Instgram]()
+#### 🎯 GOALS IN 2022:
+
+- Master React & React-Native skills
+- Learn Redux, Algorithm, Spring, Java
+- Clone Social Media applications, to get better practise
