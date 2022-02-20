@@ -6,6 +6,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)]()
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()
+[![Tiktok](https://img.shields.io/badge/-Tiktok-black?style=flat-square&logo=Tiktok&logoColor=white)]()
+[![Pinterest](https://img.shields.io/badge/-Pinterest-red?style=flat-square&logo=Pinterest&logoColor=white)]()
 
 ---
 
