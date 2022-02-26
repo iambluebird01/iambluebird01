@@ -25,8 +25,18 @@ I'm a fast learner and a very dedicated person. I hope I can have mor knowledge 
 
 I always try to compete with my self, which makes me a better person than I am yesterday.
 
+---
+
 #### 🎯 GOALS IN 2022:
 
 - Master React & React-Native skills
 - Learn Redux, Algorithm, Spring, Java
 - Clone Social Media applications, to get better practise
+
+---
+
+#### 📈 MY GITHUB STATS
+
+<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=iambluebird01&show_icons=true&theme=radical" />
+
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=iambluebird01&show_icons=true&theme=radical" />
