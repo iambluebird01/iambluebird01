@@ -27,11 +27,12 @@ I always try to compete with my self, which makes me a better person than I am y
 
 ---
 
-#### 🎯 GOALS IN 2022:
+#### 🎯 GOALS IN 2023:
 
-- Master React & React-Native skills
-- Learn Redux, Algorithm, Spring, Java, Python
+- Master Redux, React & React-Native skills
+- Learn  Algorithm, Spring, Java, Python
 - Clone Social Media applications, to get better practise
+- Create more full-stack website
 
 ---
 
